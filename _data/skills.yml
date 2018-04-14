@@ -1,0 +1,16 @@
+# Skills
+# DevOps
+- skill: DevOps
+  description: Experienced in setting up pipelines with Jenkins, Docker, Ansible
+
+# Frontend
+- skill: Frontend
+  description: Architecture and code SPA's with Angular and React. Good knowledge of fronend data architecture patterns and frameworks like Redux, rxjs. Styling skills CSS, Sass, Less
+
+# backend
+- skill: Backend
+  description: Node.js and java/groovy based backend experience. Spring-Boot, Grails, Hibernate, Kafka
+
+# soft
+- skill: Agility
+  description: Good knowlwdge of agile methodology like SCRUM or Kanban. 

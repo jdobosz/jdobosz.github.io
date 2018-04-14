@@ -1,0 +1,30 @@
+# Jobs
+# Rewe
+- company: REWE-Digital, Köln, Germany
+  position: Fullstack Developer in DevOps Team
+  duration: August, 2017 &mdash; March, 2018
+  summary: Concept, architecture, develop and run microservices, a part of big e-commerce retail system	<ul class="resume-item-list"><li>Spring-Boot, Kafka based backend</li><li>Frontend React based SPAs</li><li>Full dockerized real Devops - "You build it you run it"</li><li>Spock, Groovy based testing framework</li><li>Agile SCRUM based process</li></ul>
+
+# Ticket Shop
+- company: ÖBB - Austrian Federal Rail, Vienna, Austria
+  position: Fullstack Developer - Javascript
+  duration:  February, 2015 &mdash; July, 2017
+  summary: Develop new ticket shop - a single page, multi channel web application in agile team <ul class="resume-item-list"><li>Agile Kanban based process</li><li>AngularJS, Typescript based frontend</li><li>Node.js, Express, Typescript based API Backend</li></ul>
+
+# ACG
+- company: Frequentis, Vienna, Austria
+  position: Technical Project Manager
+  duration:   February, 2013  &mdash; December, 2014
+  summary: Coordinate technical aspects of a new developed customer system for the processing of Flight Plans and Pre-Flight Briefings over the Internet<ul class="resume-item-list"><li>Collaboration in tender and pre-sales</li><li>Elaboration of System and Software Requirements</li><li>Creation of System and Software Design Documents</li><li>Review and coordination of technical system design</li><li>Evaluation of underlying technology stack for GIS, E-Commerce and Mobile aspects</li></ul>
+
+  # EAD
+- company: Frequentis, Eurocontrol and major ANSP's
+  position: Technical Lead - Subsystem Manager
+  duration:   July, 2011  &mdash; December, 2012
+  summary: Technical leadership of the major EAD subsystem - Common Services. Intensive experience in AIS/AIM specific domain areas such as AIXM (4.5 and 5.1), Flight Plan processing according to ICAO 4444, ADQ, AIP.<ul class="resume-item-list"><li>Management of subsystem delivery lifecycle – changes, requirements, specifications, development assessment</li><li>Management of subsystem human resources and external partners</li><li>Quality Management</li><li>Management of Support Services</li><li>Design, co-development and assessment of Internet Briefing System for the major European ANSP</li></ul>
+
+# SGI
+- company: Scientific Games, Vienna, Austria
+  position: Developer
+  duration:   June, 2010  &mdash; Jume, 2011
+  summary: Co-working on the development of new Lottery System for the major regulated gaming operator. Support of the development team in implementing web services in Java and Spring Framework, automation of the deployment process on Websphere Application Server and automated testing.
