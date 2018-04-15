@@ -11,6 +11,10 @@
 - skill: Backend
   description: Node.js and java/groovy based backend experience. Spring-Boot, Grails, Hibernate, Kafka
 
+  # Databases
+- skill: Databases
+  description: Intensiv experience with Oracle Database. MySQL and Postgress.
+
 # soft
 - skill: Agility
   description: Good knowlwdge of agile methodology like SCRUM or Kanban. 
