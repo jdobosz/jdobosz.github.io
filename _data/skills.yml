@@ -1,7 +1,7 @@
 # Skills
 # DevOps
 - skill: DevOps
-  description: Experienced in setting up pipelines with Jenkins, Docker, Ansible
+  description: Experienced in setting up CI/CD pipelines with Jenkins, Docker, Ansible
 
 # Frontend
 - skill: Frontend
