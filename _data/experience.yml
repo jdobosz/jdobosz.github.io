@@ -1,5 +1,15 @@
 # Jobs
-# Rewe
+# diverse
+- company: Diverse consulting assignments in Austria and Germany
+  duration: September, 2018 &mdash; Current
+  summary: Support teams in upgrade and improvement of Angular applications 
+  skills:
+    - item: Upgrade Angular applications to 6 and 7
+    - item: Introduce state management with ngrx
+    - item: Introduce snapshot testing with jest
+    - item: refactor applications to use reactive forms
+    - item: teach fuctional-reactive programming in Angular applications
+# BA
 - company: Federal Employment Agency, Nürnberg, Germany
   position: Frontend Developer
   duration: March, 2018 &mdash; August, 2018
