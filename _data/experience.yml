@@ -17,7 +17,7 @@
   skills:
     - item: Angular 5, Typescript, RxJs in frontend
     - item: Spring-Boot, Java 8 in Backend
-    - item: Dockerized environment in private cloud
+    - item: Docker/Mesos/Marathon based cloud infrastructure
     - item: Jenkins, Git-Flow based pipeline
     - item: Automated testing - Jasmine, Protractor, Cucumber, PACT
     - item: Agile, SCRUM based process
