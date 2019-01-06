@@ -8,7 +8,7 @@
     - item: Introduce state management with ngrx
     - item: Introduce snapshot testing with jest
     - item: refactor applications to use reactive forms
-    - item: teach fuctional-reactive programming in Angular applications
+    - item: teach functional-reactive programming in Angular applications
 # BA
 - company: Federal Employment Agency, Nürnberg, Germany
   position: Frontend Developer
