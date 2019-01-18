@@ -29,8 +29,8 @@
   summary: Concept, architecture, develop and run microservices, a part of big e-commerce retail system
   skills: 
   - item: Spring-Boot, Kafka based backend
-  - item: Frontend React based SPAs
-  - item: Full dockerized real Devops - "You build it you run it"
+  - item: Frontend React.js based SPAs
+  - item: Full dockerized real Devops - "You build it you run it", Jenkins, Docker
   - item: Spock, Groovy based testing framework
   - item: Agile SCRUM based process
 
@@ -42,7 +42,7 @@
   skills: 
   - item: Agile Kanban based process
   - item: AngularJS, Typescript based frontend
-  - item: Node.js, Express, Typescript based API Backend
+  - item: Node.js, Express, Typescript based API Backend, MongoDB, Mocha, Chai
 
 # ACG
 - company: Frequentis, Vienna, Austria
