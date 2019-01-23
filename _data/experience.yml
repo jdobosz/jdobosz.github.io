@@ -17,7 +17,7 @@
   skills:
     - item: Angular 5, Typescript, RxJs in frontend
     - item: Spring-Boot, Java 8 in Backend
-    - item: Docker/Mesos/Marathon based cloud infrastructure
+    - item: Docker/Mesos/Marathon on-premise cloud infrastructure
     - item: Jenkins, Git-Flow based pipeline
     - item: Automated testing - Jasmine, Protractor, Cucumber, PACT
     - item: Agile, SCRUM based process
@@ -30,7 +30,7 @@
   skills: 
   - item: Spring-Boot, Kafka based backend
   - item: Frontend React.js based SPAs
-  - item: Full dockerized real Devops - "You build it you run it", Jenkins, Docker
+  - item: Full dockerized real DevOps process - Jenkins, Docker, ELK, Grafana
   - item: Spock, Groovy based testing framework
   - item: Agile SCRUM based process
 
