@@ -41,8 +41,8 @@
   summary: Develop new ticket shop - a single page, multi channel web application in agile team
   skills: 
   - item: Agile Kanban based process
-  - item: AngularJS, Typescript based frontend
-  - item: Node.js, Express, Typescript based API Backend, MongoDB, Mocha, Chai
+  - item: AngularJS, Typescript based frontend, Electron
+  - item: Node.js, Express, Typescript based API Backend, Redis, MongoDB, Mocha, Chai
 
 # ACG
 - company: Frequentis, Vienna, Austria
