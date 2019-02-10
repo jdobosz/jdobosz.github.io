@@ -5,10 +5,11 @@
   summary: Support teams in upgrade and improvement of Angular applications 
   skills:
     - item: Upgrade Angular applications to 6 and 7
-    - item: Introduce state management with ngrx
+    - item: Introduce REDUX state management with ngrx
     - item: Introduce snapshot testing with jest
     - item: refactor applications to use reactive forms
     - item: teach functional-reactive programming in Angular applications
+    - item: POC – deploy node.js/Angular application in GCP and Azure Cloud with Kubernetes
 # BA
 - company: Federal Employment Agency, Nürnberg, Germany
   position: Frontend Developer
