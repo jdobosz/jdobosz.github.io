@@ -2,7 +2,7 @@
 # diverse
 - company: Startup
   duration: January, 2019 &mdash; February, 2019
-  summary: POC - Clound Native deployment strategies 
+  summary: POC - Cloud Native deployment strategies 
   skills:
     - item: POC – deploy node.js/Angular application in GCP, AWS and Azure Cloud with Kubernetes
     - item: evaluate depolyment strategies and change management
