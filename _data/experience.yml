@@ -1,15 +1,30 @@
 # Jobs
 # diverse
-- company: Diverse consulting assignments in Austria and Germany
-  duration: September, 2018 &mdash; Current
-  summary: Support teams in upgrade and improvement of Angular applications 
+- company: Startup
+  duration: January, 2019 &mdash; February, 2019
+  summary: POC - Clound Native deployment strategies 
   skills:
-    - item: Upgrade Angular applications to 6 and 7
-    - item: Introduce REDUX state management with ngrx
+    - item: POC – deploy node.js/Angular application in GCP, AWS and Azure Cloud with Kubernetes
+    - item: evaluate depolyment strategies and change management
+
+# DIU
+- company: Digital Agency, Hamburg, Germany
+  duration: October, 2018 &mdash; December, 2018
+  summary: Upgrade and improvement of Angular Applications 
+  skills:
+    - item: Upgrade Angular applications from 1.x and 4.x to 7
+    - item: introduce reactive forms, RxJs pipeable operators and functional-reactive programming
+
+# Wienit
+- company: Wien-IT, Austria
+  duration: September, 2018 &mdash; October, 2018
+  summary: Improvement of Angular Application 
+  skills:
+    - item: Introduce REDUX based state management with ngrx
     - item: Introduce snapshot testing with jest
     - item: refactor applications to use reactive forms
     - item: teach functional-reactive programming in Angular applications
-    - item: POC – deploy node.js/Angular application in GCP and Azure Cloud with Kubernetes
+
 # BA
 - company: Federal Employment Agency, Nürnberg, Germany
   position: Frontend Developer
