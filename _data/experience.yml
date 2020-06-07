@@ -1,11 +1,20 @@
 # Jobs
+# lambdas
+- company: Startup
+  duration: November, 2019 &mdash; ongoing
+  summary: Serverless API Gateway for IoT 
+  skills:
+    - item: Elaborate serverless architecture 
+    - item: Develop prototypes for backend and frontend services based on AWS Lambdas and node.js 
+    - item: Setting up AWS environment for Lambdas, API-Gateway, Dynamo-DB, Applying Security Policies
+    - item: Technology -  AWS Lambda, Dynamo DB, Claudia.js, node.js, MQTT
 # insurance
 - company: Major Insurance Corporation, Vienna, Austria
-  duration: March, 2019 &mdash; current
+  duration: March, 2019 &mdash; ongoing
   summary: Develop new Insurance Platform  
   skills:
     - item: Frontend development of components and basic framework for insurance agents and partners 
-    - item: Intensive use of Angular 7/8, Angular CDK/Material and Angular Schematics
+    - item: Intensive use of Angular 8, Angular CDK/Material, Angular Schematics, NgRx
 # diverse
 - company: Startup
   duration: January, 2019 &mdash; February, 2019

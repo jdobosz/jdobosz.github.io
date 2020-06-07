@@ -1,7 +1,7 @@
 # Skills
 # DevOps
-- skill: DevOps and Cloud Native
-  description: Experienced in setting up CI/CD pipelines with Jenkins, Docker, Kubernetes
+- skill: DevOps and Cloud
+  description: Experienced in setting up CI/CD pipelines with Jenkins, Docker, Kubernetes, AWS
 
 # Frontend
 - skill: Frontend
@@ -9,7 +9,7 @@
 
 # backend
 - skill: Backend
-  description: Node.js/Express and java/groovy based backend experience. Spring-Boot, Grails, Hibernate, Kafka
+  description: Node.js/Express and java/groovy based backend experience. Spring-Boot, Grails, Hibernate, Kafka, MQTT
 
   # Databases
 - skill: Databases
