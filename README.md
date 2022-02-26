@@ -6,18 +6,12 @@
 
 ## Docs
 
-### Running locally
+### Running locally in podman/docker
 
-To test locally, run the following in your terminal:
+```
+podman run --rm --name jekyll -v .:/site -p 4000:4000 -d bretfisher/jekyll-serve
+```
 
-1. Clone repo locally
-1. `bundle install`
-2. `bundle exec jekyll serve`
-3. Open your browser to `localhost:4000`
-
-### Customizing
-
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
 #### Options/configuration
 
