@@ -1,15 +1,19 @@
 # Skills
+# Architecture
+- skill: Architecture
+  description: Experience with Data sharing patterns like Data Mesh, Event Sourcing, CQRS. Advocate Domain Driven Design, Microservice and Microfrontend Architecture
+
 # DevOps
 - skill: DevOps and Cloud
-  description: Experienced in setting up CI/CD pipelines with Jenkins, Docker, Kubernetes, AWS
+  description: Experienced in setting up CI/CD pipelines with Jenkins, Gitlab, Docker, Kubernetes, AWS (CDK)
 
 # Frontend
 - skill: Frontend
-  description: Architecture and code SPA's with Angular and React. Good knowledge of fronend data architecture patterns and frameworks like Redux, rxjs. Styling skills CSS, Sass, Less
+  description: Architecture and code SPA's with Angular and React.Good knowledge of fronend data architecture patterns and frameworks like Redux, rxjs. 
 
 # backend
 - skill: Backend
-  description: Node.js/Express and java/groovy based backend experience. Spring-Boot, Grails, Hibernate, Kafka, MQTT
+  description: Node.js/Express and java/groovy based backend experience. Serverless, Spring-Boot, Grails, Hibernate, Kafka, MQTT
 
   # Databases
 - skill: Databases

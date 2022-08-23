@@ -1,5 +1,22 @@
 # Jobs
-
+# inm
+- company: European Aviation, International
+  duration: January, 2020 &mdash; current
+  summary: Advice bidding team in architectual topics, co-working on system architecture outline
+  skills:
+    - item: Data Mesh paradigm
+    - item: Microservice Oriented Architecture
+    - item: Deployment aspects on OpenShift/Kubernetes platform, On-Prem and cloud
+    - item: Event Sourcing/Streaming, CQRS, messaging, Kafka, HA/DR aspects, Single Source of Truth
+# immo
+- company: Digital real estate tech company, Germany
+  duration: October, 2021 &mdash; October, 2022
+  summary: Support agile team in developing, maintaining and running digital marketing portals
+  skills:
+    - item: Frontend development with Angular 12/13, Typescript, RxJs, custom UI Framework, e2e test with Cypress
+    - item: Hybrid backend, AWS based, node.js, Typescript  based lambdas, DynamoDB, SQS, SNS, Elastic, GoLang microservices hosted on Fargate
+    - item: CI/CD on Gitlab using AWS-CDK in Typescript and Terraform
+    - item: SCRUM based high agile process
 # insurance
 - company: Major Insurance Corporation, Vienna, Austria
   duration: March, 2019 &mdash; June, 2021
@@ -15,7 +32,7 @@
     - item: Elaborate serverless architecture 
     - item: Develop prototypes for backend and frontend services based on AWS Lambdas and node.js 
     - item: Setting up AWS environment for Lambdas, API-Gateway, Dynamo-DB, Applying Security Policies
-    - item: Technology -  AWS Lambda, Dynamo DB, AWS SAM, node.js, Typescript, MQTT
+    - item: Technology - AWS Lambda, Dynamo DB, AWS SAM, node.js, Typescript, MQTT
 # diverse
 - company: Startup
   duration: January, 2019 &mdash; February, 2019
